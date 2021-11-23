@@ -76,6 +76,8 @@
 
 #contactUsForm-helpPopup textarea[id="tell_us_more_popup"] {
   margin-top: 0.5rem;
+  font-size: 1.2rem;
+  font-weight: 500;
   height: 10rem;
   width: 100%;
   border-radius: 4px;
